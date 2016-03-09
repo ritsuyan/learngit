@@ -1,2 +1,2 @@
 这你都能听见
-push to github
+Creating a new branch is quick & simple.
